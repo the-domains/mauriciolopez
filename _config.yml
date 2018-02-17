@@ -1,0 +1,73 @@
+layout_spectrum: 0.8688327277156681
+typography_spectrum: 0.8925184795140556
+color:
+  brandStrength: 0.17275658315859072
+  lightness: 0.9543968311487927
+  saturation: 0.8203967431424609
+  rhythmicContrast: 0.2950738778882798
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+content_rating:
+  adult: false
+opengraph:
+  type: ''
+  appId: ''
+analytics:
+  google: UA-16513776-1
+author:
+  name: © Mauricio Lopez
+  email: info@mauriciolopez.info
+logo: null
+name: mauricio lopez art
+url: 'https://mauriciolopez.info'
+navigation:
+  - name: Public Art
+    id: f31107e1-b00f-4aa5-860e-297186dfffb1
+    type: content
+  - name: Paintings & Installations
+    id: 120bfa47-a0e6-4d87-9551-bf445e3de880
+    type: content
+  - name: Works on Paper
+    id: 03f8344b-bec4-4787-a794-108cedd5f467
+    type: content
+  - name: About
+    id: 63046edf-737f-4860-bc68-99ae653cf971
+    type: content
+  - name: Contact  & © Mauricio Lopez
+    id: 50aac144-5c42-401f-a53b-ef0217f18ef7
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7351b975-6c64-43b0-b119-8abf2762e31f.ico
+title: 'mauricio lopez art '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfad3979-68a2-4800-94d0-f4df848d6a02.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfad3979-68a2-4800-94d0-f4df848d6a02.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ''
+purpose: []
+github: true
